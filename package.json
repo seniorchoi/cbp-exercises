@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polakjan/cbp-exercises-winter2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polakjan/cbp-exercises-winter2017/issues"
+  },
+  "homepage": "https://github.com/polakjan/cbp-exercises-winter2017#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1"
+  }
+}

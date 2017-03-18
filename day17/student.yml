@@ -1,0 +1,47 @@
+student:
+    id: integer
+    first_name: short string
+    last_name: short string
+    date_of_birth: string
+    age: integer
+    gender: boolean
+    currently_enrolled: boolean
+    height: decimal
+    weight: decimal
+    uses_heroin: boolean
+    phone_number: short string (integer)
+    nationality: short string
+    wears_glasses: boolean
+    iq: integer
+    disability: boolean
+    kind_of_disability: short string
+    email: short string
+    major: short string
+    hates_git: boolean
+    shoe_size: decimal
+    is_present: boolean
+    lateness_ratio: decimal
+    motto: long string
+
+
+house:
+    zip_code:
+    street:
+    house_nr:
+
+grade:
+    id:
+    student_id:
+        type: integer
+        foreignKey: true
+        foreignTable: student
+        foreignReference: id
+    
+school:
+    id:
+
+school_has_student:
+    school_id:
+    student_id:
+
+    

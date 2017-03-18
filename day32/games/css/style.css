@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;    
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.game {
+    background-color: #e7e7e7;
+    margin: 1em;
+    overflow: hidden;
+    padding: 1em;
+    position: relative;
+}
+.game .image {
+    float: left;
+    margin: 0 1em 0em 0;
+}
+.game .info h2 {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+}
+.game .info .rating {
+    font-weight: bold;
+    color: darkslateblue;
+    font-size: 1.5em;
+    position: absolute;
+    top: 1em;
+    right: 1em;
+}
+.game .info .genres a {
+    color: #999999;
+    font-size: 1.1em;
+    display: inline-block;
+    margin-right: 0.5em;
+}
+.game .info .genres a:hover {
+    text-decoration: none;
+}

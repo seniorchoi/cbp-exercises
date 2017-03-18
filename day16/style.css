@@ -1,0 +1,10 @@
+nav {
+  border: 1px solid #ff0066;
+}
+nav a {
+  color: #ff0066;
+}
+nav a:hover {
+  background-color: #ff0066;
+  color: #ffffff;
+}

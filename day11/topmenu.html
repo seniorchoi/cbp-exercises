@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sticky topmenu test</title>
+
+    <style>
+body {
+    margin: 0;
+    padding-top: 2em;
+}
+section {
+    width: 600px;
+    margin: 0 auto;
+}
+nav {
+    background-color: darkred;
+    color: #ffffff;
+    padding: 0.5em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+nav .links {
+    float: right;
+    margin-right: 1em;
+}
+nav .links > div {
+    display: inline-block;
+    margin: 0 0.5em;
+    position: relative;
+}
+nav .links > div .submenu {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background-color: darkgray;
+    color: #000000;
+    padding: 1em;
+    display: none;
+}
+nav .links > div:hover .submenu {
+    display: block;
+}
+    </style>
+</head>
+<body>
+
+    <nav>
+        MENU
+
+        <ul class="links">
+            <li>
+                <a href="#">Link #1</a>
+            </li>
+            <li>
+                <a href="#">Link #2</a>
+                <div class="submenu">
+                    <a href="#">Link #1</a>
+                    <a href="#">Link #2</a>
+                    <a href="#">Link #3</a>
+                    <a href="#">Link #4</a>
+                </div>
+            </li>
+        </ul>
+    </nav>
+
+    <section>
+        <h1>My headline</h1>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+
+        <p>
+            In sunt nostrud voluptate officia reprehenderit mollit sint do quis est officia commodo. Dolore ullamco sunt aute non elit magna. Proident dolor magna ut in adipisicing sunt ut magna non occaecat elit ipsum pariatur. Minim Lorem enim dolore aute nostrud pariatur do sint ad est non.
+        </p>
+    </section>
+
+</body>
+</html>

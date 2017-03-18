@@ -1,0 +1,56 @@
+@my_favourite_font_size: 16px;
+@main_color: orange;
+@highlight_color: green;
+
+body {
+    //background: red; // because I like red
+}
+
+p {
+    font-size: @my_favourite_font_size;
+    .padded;
+    .shadowed;
+}
+
+ul li {
+    font-size: @my_favourite_font_size;
+}
+
+h1, h2 {
+    color: @main_color;
+}
+
+img {
+  .shadowed;
+}
+
+section {
+    padding: @my_favourite_font_size;
+    border-bottom: 1px solid @highlight_color;
+}
+
+.shadowed {
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.padded {
+    padding: 1em;
+}
+
+section.first {
+
+    a {
+        text-decoration: none;
+    }
+
+    p {
+        @background_color: #ffc0c0;
+        background-color: @background_color;
+        @border_color: @background_color - #666666;
+        border: 1px solid @border_color;
+
+        a {
+            color: @highlight_color;
+        }
+    }
+
+}

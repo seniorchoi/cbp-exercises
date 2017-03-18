@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 12:42:37 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents</title>
+      <link>http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Wikileaks2/08Wikileaks2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The C.I.A. headquarters in Langley, Va. If the WikiLeaks documents are authentic, the release would be a serious blow to the agency.</media:description>
+      <media:credit>Jason Reed/Reuters</media:credit>
+      <description>The documents describe agency tools used to hack into smartphones and TVs, as well as to bypass encryption on programs like Signal and WhatsApp.</description>
+      <dc:creator>SCOTT SHANE, MATTHEW ROSENBERG and ANDREW W. LEHREN</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 03:02:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+    </item>
+    <item>
+      <title>With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone?</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/cia-hacking-documents-wikileaks-iphones-tvs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/cia-hacking-documents-wikileaks-iphones-tvs.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/cia-hacking-documents-wikileaks-iphones-tvs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08wikiqanda/08wikiqanda-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An iPhone streamed a Facebook Live feed of the lobby at Trump Tower in November.</media:description>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <description>Documents released by WikiLeaks indicate the extent to which the spy agency was looking for ways to break into ordinary consumer devices.</description>
+      <dc:creator>STEVE LOHR and KATIE BENNER</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 18:59:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+    </item>
+    <item>
+      <title>Travis Kalanick, Uber&#x2019;s Chief, Wants a No. 2 Executive</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/uber-travis-kalanick.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/uber-travis-kalanick.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/uber-travis-kalanick.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08uber1/08uber1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Travis Kalanick, the chief executive of Uber, at a conference in Amsterdam last May.</media:description>
+      <media:credit>Marlene Awaad/Bloomberg</media:credit>
+      <description>After several recent incidents that called into question Uber&#x2019;s culture and tactics, its chief is looking for help leading the ride-sharing company.</description>
+      <dc:creator>KATIE BENNER</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 19:58:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+    </item>
+    <item>
+      <title>U.S. Fines ZTE of China $1.19 Billion for Breaching Sanctions</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/zte-china-fine.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/zte-china-fine.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/zte-china-fine.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08chinasanctions1/08chinasanctions1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Visitors used ZTE devices during the Mobile World Congress 2017 on Feb. 27 in Barcelona. The company&#x2019;s settlement with the United States is the latest in a series of skirmishes between the United States and China over technology policy.</media:description>
+      <media:credit>David Ramos/Getty Images</media:credit>
+      <description>The Chinese technology company agreed to plead guilty to charges that it broke United States sanctions and sold electronics to Iran and North Korea.</description>
+      <dc:creator>PAUL MOZUR and CECILIA KANG</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 17:50:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ZTE Corp</category>
+    </item>
+    <item>
+      <title>State of the Art: Snap Makes a Bet on the Cultural Supremacy of the Camera</title>
+      <link>http://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/09/technology/09state-illo/09state-illo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The rising dependence on cameras is changing the way we communicate.</media:description>
+      <media:credit>Doug Chayka</media:credit>
+      <description>Our rising dependence on cameras is changing our language, and the company behind Snapchat is counting on the eventual dominance of visual culture.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 10:00:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Language and Languages</category>
+    </item>
+    <item>
+      <title>WikiLeaks Reignites Tensions Between Silicon Valley and Spy Agencies</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/wikileaks-silicon-valley-spy-agencies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08techimpact1/08techimpact1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A pedestrian walked by the Apple Store on Fifth Avenue in February 2016 in Manhattan, while a group of demonstrators protested F.B.I. efforts to force Apple to help access the iPhone of an attacker in the 2015 shooting in San Bernardino, Calif.</media:description>
+      <media:credit>Julie Jacobson/Associated Press</media:credit>
+      <description>Leaked documents appear to indicate that the C.I.A. was collecting cyberweapons that can break into smartphones and even internet-connected televisions.</description>
+      <dc:creator>VINDU GOEL and NICK WINGFIELD</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 02:31:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowden, Edward J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>Blue Origin, Jeff Bezos&#x2019;s Moon Shot, Gets First Paying Customer</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/blue-origin-jeff-bezoss-moon-shot-gets-first-paying-customer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/blue-origin-jeff-bezoss-moon-shot-gets-first-paying-customer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/blue-origin-jeff-bezoss-moon-shot-gets-first-paying-customer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08blueorigin1/08blueorigin1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jeff Bezos, founder of the rocket company Blue Origin, spoke about plans for the business at Access Intelligence&#x2019;s Satellite 2017 conference on Tuesday in Washington.</media:description>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <description>In about five years, Eutelsat, a satellite TV provider, will strap one of its satellites to a new Blue Origin rocket to be delivered to space.</description>
+      <dc:creator>CECILIA KANG</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 00:17:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Blue Origin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+    </item>
+    <item>
+      <title>Tech Tip: How to Get Windows 10 to Run Older Programs</title>
+      <link>http://www.nytimes.com/2017/03/07/technology/personaltech/how-to-get-windows-10-to-run-older-programs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/technology/personaltech/how-to-get-windows-10-to-run-older-programs.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/technology/personaltech/how-to-get-windows-10-to-run-older-programs.html?partner=rss&amp;emc=rss"/>
+      <description>Microsoft&#x2019;s current operating system comes with compatibility settings that may convince outdated applications to work on Windows 10.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 17:47:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+    </item>
+    <item>
+      <title>Selfie With Merkel by Refugee Became a Legal Case, but Facebook Won in German Court</title>
+      <link>http://www.nytimes.com/2017/03/07/business/germany-facebook-refugee-selfie-merkel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/business/germany-facebook-refugee-selfie-merkel.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/business/germany-facebook-refugee-selfie-merkel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/world/08Eufacebook/08Eufacebook-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anas Modamani, a Syrian refugee, posed for a selfie with Chancellor Angela Merkel in 2015 in Berlin.</media:description>
+      <media:credit>Fabrizio Bensch/Reuters</media:credit>
+      <description>The picture of Anas Modamani with the German chancellor was used in fake news posts about terrorism, and he wanted the social media giant to prevent its use.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 14:36:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modamani, Anas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+    </item>
+    <item>
+      <title>China&#x2019;s Plan to Build Its Own High-Tech Industries Worries Western Businesses</title>
+      <link>http://www.nytimes.com/2017/03/07/business/china-trade-manufacturing-europe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/business/china-trade-manufacturing-europe.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/business/china-trade-manufacturing-europe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/08/business/08madeinchina-1/08madeinchina-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Great Wall Motors factory in Baoding, China. The country&#x2019;s leaders worry that an increasingly well-educated younger generation is rejecting factory work for higher-paid office jobs.</media:description>
+      <media:credit>Andy Wong/Associated Press</media:credit>
+      <description>European and American companies say that a $300 billion effort to make China self-sufficient in important sectors could lead to unfair competition.</description>
+      <dc:creator>KEITH BRADSHER and PAUL MOZUR</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 10:56:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>Automation Nation: How to Beat the Robots</title>
+      <link>http://www.nytimes.com/2017/03/07/upshot/how-to-beat-the-robots.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/07/upshot/how-to-beat-the-robots.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/07/upshot/how-to-beat-the-robots.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/03/upshot/00up-automation1/00up-automation1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kiva robots move racks of merchandise at an Amazon fulfillment center in Tracy, Calif., where there are two robots for every human worker. Policy makers can help prepare people for a time when more jobs are automated.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>Technology leads to growth, but the benefits won&#x2019;t be automatic, so here are some policies that economists and policy experts think could help workers.</description>
+      <dc:creator>CLAIRE CAIN MILLER</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 10:30:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Vocational Training</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: Uber, Lyft and Gridlock in New York</title>
+      <link>http://www.nytimes.com/2017/03/06/technology/tech-roundup-the-impact-of-ride-hailing-apps-on-new-york-city-gridlock.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/technology/tech-roundup-the-impact-of-ride-hailing-apps-on-new-york-city-gridlock.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/technology/tech-roundup-the-impact-of-ride-hailing-apps-on-new-york-city-gridlock.html?partner=rss&amp;emc=rss"/>
+      <description>Subway ridership in New York is down for the first time since 2009. That has coincided with the explosive growth of companies like Uber.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Tue, 07 Mar 2017 17:18:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>The Downside of Ride-Hailing: More New York City Gridlock</title>
+      <link>http://www.nytimes.com/2017/03/06/nyregion/uber-ride-hailing-new-york-transportation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/nyregion/uber-ride-hailing-new-york-transportation.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/nyregion/uber-ride-hailing-new-york-transportation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/nyregion/07hail3/06hail3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Lyft ride on the Upper East Side.</media:description>
+      <media:credit>Edu Bayer for The New York Times</media:credit>
+      <description>Ride-hailing apps, an existential threat to taxis, are also siphoning passengers from subways and buses, raising concerns over worsening congestion.</description>
+      <dc:creator>EMMA G. FITZSIMMONS and WINNIE HU</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 23:37:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Transportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>Activists Rush to Save Government Science Data &#x2014; If They Can Find It</title>
+      <link>http://www.nytimes.com/2017/03/06/science/donald-trump-data-rescue-science.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/science/donald-trump-data-rescue-science.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/science/donald-trump-data-rescue-science.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/science/07DATA/07DATA-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;Data rescuers&#x201D; at New York University last month.</media:description>
+      <media:credit>Sam Hodgson for The New York Times</media:credit>
+      <description>The Trump administration has begun changing some government websites. A group of concerned citizens has been working to preserve data it sees as politically vulnerable.</description>
+      <dc:creator>AMY HARMON</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 21:35:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Data.gov</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Libraries and Librarians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Internet Archive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>An Artist Helps iTunes&#x2019; User Agreement Go Down Easy</title>
+      <link>http://www.nytimes.com/2017/03/06/books/itunes-terms-conditions-comic-book.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/books/itunes-terms-conditions-comic-book.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/books/itunes-terms-conditions-comic-book.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/arts/07TERMS-TOP/07TERMS-TOP-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Steve Jobs (or someone like him), meet Homer Simpson (or someone like him).</media:description>
+      <media:credit>R. Sikoryak/Drawn &amp; Quarterly</media:credit>
+      <description>A new Drawn and Quarterly graphic novel by the artist Robert Sikoryak adapts Apple&#x2019;s legalese into a work invoking more than a century of comics.</description>
+      <dc:creator>JOE COSCARELLI</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 20:56:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cartoons and Cartoonists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sikoryak, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Terms and Conditions (Book)</category>
+    </item>
+    <item>
+      <title>A Conversation With: Why We Can&#x2019;t Look Away From Our Screens</title>
+      <link>http://www.nytimes.com/2017/03/06/science/technology-addiction-irresistible-by-adam-alter.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/science/technology-addiction-irresistible-by-adam-alter.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/science/technology-addiction-irresistible-by-adam-alter.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/science/07CONVERSATION/07CONVERSATION-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Adam Alter warns that many of us &#x2014; youngsters, teenagers, adults &#x2014; are addicted to modern digital products.</media:description>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <description>In a new book, the social psychologist Adam Alter warns that our devotion to digital devices has morphed into something very much like addiction.</description>
+      <dc:creator>CLAUDIA DREIFUS</dc:creator>
+      <pubDate>Wed, 08 Mar 2017 00:00:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: America&#x2019;s Cyberwar Against North Korea</title>
+      <link>http://www.nytimes.com/2017/03/06/technology/tech-roundup-americas-cyberwar-against-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/technology/tech-roundup-americas-cyberwar-against-north-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/technology/tech-roundup-americas-cyberwar-against-north-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/14/science/14MISSILE2/14MISSILE2-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The KN-14, one of two types of intercontinental ballistic missiles that North Korea is developing, at a military parade in the capital, Pyongyang, in October 2015, in an image released by the nation's government.</media:description>
+      <media:credit>Korean Central News Agency, via Reuters</media:credit>
+      <description>President Trump&#x2019;s accusatory tweets against his predecessor drew attention from news of an effort to thwart North Korea&#x2019;s nuclear missile program.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 17:15:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+    </item>
+    <item>
+      <title>Tech Tip: Questions About Mac Security and Google Password Prompts</title>
+      <link>http://www.nytimes.com/2017/03/06/technology/personaltech/internet-accounts-raise-password-question-on-the-mac.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/technology/personaltech/internet-accounts-raise-password-question-on-the-mac.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/technology/personaltech/internet-accounts-raise-password-question-on-the-mac.html?partner=rss&amp;emc=rss"/>
+      <description>You can link your mail accounts and social media services to Apple&#x2019;s operating system for easy integration, but keep your passwords up to date.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 16:54:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Yelp Starts Tracking Gender-Neutral Bathrooms for Transgender Users</title>
+      <link>http://www.nytimes.com/2017/03/06/us/yelp-gender-neutral-bathrooms.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/us/yelp-gender-neutral-bathrooms.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/us/yelp-gender-neutral-bathrooms.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/us/07xp-yelp/07xp-yelp-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A gender-neutral public restroom sign in West Hollywood, Calif. Yelp will soon offer an option to let users filter searches for establishments with gender-neutral bathrooms.</media:description>
+      <media:credit>Kendrick Brinson for The New York Times</media:credit>
+      <description>The company may ultimately be able to assemble the largest directory of transgender-friendly bathrooms, but it is not the first to try.</description>
+      <dc:creator>NIRAJ CHOKSHI</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 14:55:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bathrooms and Toilets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yelp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grimm, Gavin</category>
+    </item>
+    <item>
+      <title>Turkey to Investigate Antitrust Complaint Against Google</title>
+      <link>http://www.nytimes.com/2017/03/06/technology/google-turkey-antitrust-android.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/technology/google-turkey-antitrust-android.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/technology/google-turkey-antitrust-android.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/business/07turkeygoogle1/07turkeygoogle1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Turkish President Recep Tayyip Erdogan, center with flowers, and his wife Emine Erdogan, also holding flowers, at a rally with supporters in Istanbul. Turkey is investigating whether Google has violated its antitrust laws. Mr. Erdogan has repeatedly blocked Google, YouTube and other websites because he feared they were fomenting dissent.</media:description>
+      <media:credit>Ozan Kose/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The country&#x2019;s competition authority will look at whether the search giant unfairly promotes its own digital services on Android over those of rivals.</description>
+      <dc:creator>MARK SCOTT</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 13:33:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yandex NV</category>
+    </item>
+    <item>
+      <title>Welcome, Airbnb Guest! Your Neighbors Are the Trumps</title>
+      <link>http://www.nytimes.com/2017/03/06/nyregion/airbnb-trump-tower.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/nyregion/airbnb-trump-tower.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/nyregion/airbnb-trump-tower.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/03/nyregion/00TRUMPTOWER1/00TRUMPTOWER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers outside Trump Tower last week. An apartment inside had been listed for rental through Airbnb.</media:description>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <description>An apartment listed on the rental website until last week offered a prime location, luxurious appointments and a lot of security. It was inside Trump Tower.</description>
+      <dc:creator>ELI ROSENBERG</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 10:00:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Airbnb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trump Tower (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Prosecutor Pushes for Indictment of South Korean President in Samsung Scandal</title>
+      <link>http://www.nytimes.com/2017/03/06/world/asia/president-park-geun-hye-bribery-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/world/asia/president-park-geun-hye-bribery-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/world/asia/president-park-geun-hye-bribery-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/07/business/07park-2/07park-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The special prosecutor Park Young-soo, center, said on Monday that President Park Geun-hye and her confidante, Choi Soon-sil, conspired to collect $38 million in bribes from Samsung.</media:description>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <description>President Park Geun-hye, who cannot be charged while in office, is accused of conspiring with a confidante to take $38 million in bribes from the technology company.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 09:53:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choi Soon-sil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jae-yong (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>In Silicon Valley, Caltrain Upgrade Is Imperiled as Trump Withholds Funds</title>
+      <link>http://www.nytimes.com/2017/03/06/us/trump-and-republicans-block-caltrain-grant.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/us/trump-and-republicans-block-caltrain-grant.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/us/trump-and-republicans-block-caltrain-grant.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/us/00Transport-2/00Transport-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Construction was under way last month in Fresno, Calif., on the first leg of the high-speed rail line connecting San Francisco to Los Angeles. The high-speed rail project and Caltrain are administratively separate, but a 2013 agreement to share tracks as a cost-saving measure raised Republican ire.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>The Trump administration, backed by California Republicans, is withholding a $647 million federal grant for the electrification project, which has immediate consequences for the system&#x2019;s 65,000 daily commuters.</description>
+      <dc:creator>THOMAS FULLER</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 08:00:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Caltrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">High-Speed Rail Projects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">California High-Speed Rail Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Data Firm Says &#x2018;Secret Sauce&#x2019; Aided Trump; Many Scoff</title>
+      <link>http://www.nytimes.com/2017/03/06/us/politics/cambridge-analytica.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/06/us/politics/cambridge-analytica.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/06/us/politics/cambridge-analytica.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/24/us/00CAMBRIDGE1/00CAMBRIDGE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alexander Nix, chief executive of Cambridge Analytica, at the Concordia Summit for public-private business partnerships in New York in September. The firm claimed to have developed psychographic profiles that could predict the political leanings of every American adult.</media:description>
+      <media:credit>Bryan Bedder/Getty Images</media:credit>
+      <description>The big-data company Cambridge Analytica says it has the ability to predict the political leanings of every American adult, but how well it works remains unproved.</description>
+      <dc:creator>NICHOLAS CONFESSORE and DANNY HAKIM</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 08:00:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge Analytica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Breitbart News Network LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mercer, Robert (1946- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nix, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Polls and Public Opinion</category>
+    </item>
+    <item>
+      <title>The Week Ahead: Houston Will Host Energy Conference, and February Jobs Figures Are Due</title>
+      <link>http://www.nytimes.com/2017/03/05/business/houston-will-host-energy-conference-and-february-jobs-figures-are-due.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/05/business/houston-will-host-energy-conference-and-february-jobs-figures-are-due.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/05/business/houston-will-host-energy-conference-and-february-jobs-figures-are-due.html?partner=rss&amp;emc=rss"/>
+      <description>The CERAWeek gathering will draw the Canadian prime minister and other international speakers. Meanwhile, analysts are expecting a solid monthly gain in jobs.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 02:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Central Bank</category>
+    </item>
+    <item>
+      <title>Bits: Farhad&#x2019;s and Mike&#x2019;s Week in Tech: Uber, Oh Boy.</title>
+      <link>http://www.nytimes.com/2017/03/04/technology/farhads-and-mikes-week-in-tech-uber-oh-boy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/technology/farhads-and-mikes-week-in-tech-uber-oh-boy.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/technology/farhads-and-mikes-week-in-tech-uber-oh-boy.html?partner=rss&amp;emc=rss"/>
+      <description>Snap debuted on the New York Stock Exchange and raised over $3 billion. And three new blows to Uber.</description>
+      <dc:creator>FARHAD MANJOO and MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 04 Mar 2017 14:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+    </item>
+    <item>
+      <title>Trump Inherits a Secret Cyberwar Against North Korean Missiles</title>
+      <link>http://www.nytimes.com/2017/03/04/world/asia/north-korea-missile-program-sabotage.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/world/asia/north-korea-missile-program-sabotage.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/world/asia/north-korea-missile-program-sabotage.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/14/science/14MISSILE1/14MISSILE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An image distributed by the North Korean government showing the country&#x2019;s leader, Kim Jong-un, visiting a missile test center in North Pyongan Province. Analysts say the pair of engines he is standing in front of could power an intercontinental ballistic missile.</media:description>
+      <media:credit>Korean Central News Agency, via Reuters</media:credit>
+      <description>The United States has been trying to sabotage North Korea&#x2019;s missile program. President Trump must decide what to do next.</description>
+      <dc:creator>DAVID E. SANGER and WILLIAM J. BROAD</dc:creator>
+      <pubDate>Sat, 04 Mar 2017 13:05:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>&#xBD81;&#xD55C; &#xBBF8;&#xC0AC;&#xC77C; &#xBC29;&#xD574; &#xC804;&#xB7B5;, &#xBED4;&#xD55C; &#xACF3;&#xC5D0; &#xC228;&#xACA8;&#xC838; &#xC788;&#xC5C8;&#xB2E4;.</title>
+      <link>http://www.nytimes.com/2017/03/04/world/asia/left-of-launch-missile-defense-korean.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/world/asia/left-of-launch-missile-defense-korean.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/world/asia/left-of-launch-missile-defense-korean.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/science/03SUBMISSILESIDE-ko/03SUBMISSILESIDE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#xBBF8;&#xAD6D; &#xACF5;&#xAD70; &#xC900;&#xC7A5;&#xC73C;&#xB85C; &#xC608;&#xD3B8;&#xD55C; &#xCF00;&#xB124;&#xC2A4; E. &#xD1A0;&#xB3C4;&#xB85C;&#xD504;(&#xC0AC;&#xC9C4; &#xAC00;&#xC6B4;&#xB370;)&#xB294; &#xC9C0;&#xB09C; 2015&#xB144; &#xC6CC;&#xC2F1;&#xD134;&#xC5D0; &#xC788;&#xB294; &#xC804;&#xB7B5;&#xAD6D;&#xC81C;&#xBB38;&#xC81C;&#xC5F0;&#xAD6C;&#xC18C;(CSIS)&#xC5D0;&#xC11C; &#xC5F4;&#xB9B0; &#xC138;&#xBBF8;&#xB098;&#xC5D0; &#xCC38;&#xC11D;&#xD574; &#xBBF8;&#xC0AC;&#xC77C;&#xC5D0; &#xB300;&#xD55C; &#xC120;&#xC81C;&#xD0C0;&#xACA9;&#xC744; &#xC5B4;&#xB5A4; &#xBC29;&#xC2DD;&#xC73C;&#xB85C; &#xC7AC;&#xAC00;&#xD560; &#xAC83;&#xC778;&#xC9C0;&#xC5D0; &#xB300;&#xD55C; &#xC9C8;&#xBB38;&#xC744; &#xC81C;&#xAE30;&#xD588;&#xB2E4;.</media:description>
+      <media:credit>&#xC804;&#xB7B5;&#xAD6D;&#xC81C;&#xBB38;&#xC81C;&#xC5F0;&#xAD6C;&#xC18C;(CSIS) &#xC81C;&#xACF5;</media:credit>
+      <description>&#xBBF8;&#xAD6D; &#xC815;&#xBD80; &#xAD00;&#xACC4;&#xC790;&#xB4E4;&#xC740; &#xC790;&#xC138;&#xD55C; &#xC5B8;&#xAE09;&#xC740; &#xD53C;&#xD558;&#xBA74;&#xC11C;&#xB3C4; &#xC0AC;&#xC774;&#xBC84; &#xACF5;&#xACA9;&#xACFC; &#xC0C9;&#xB2E4;&#xB978; &#xD615;&#xD0DC;&#xC758; &#xBBF8;&#xC0AC;&#xC77C; &#xBB34;&#xB825;&#xD654; &#xC791;&#xC804;&#xC744; &#xD3EC;&#xD568;&#xD574; &#xBBF8;&#xAD6D;&#xC758; &#xBBF8;&#xC0AC;&#xC77C; &#xBC29;&#xC5B4; &#xCCB4;&#xACC4;&#xB97C; &#xB2E4;&#xC2DC; &#xC815;&#xC758;&#xD574;&#xC57C; &#xD55C;&#xB2E4;&#xACE0; &#xACF5;&#xAC1C;&#xC801;&#xC73C;&#xB85C; &#xB9D0;&#xD574; &#xC654;&#xB2E4;.</description>
+      <dc:creator>DAVID E. SANGER and WILLIAM J. BROAD</dc:creator>
+      <pubDate>Sat, 04 Mar 2017 13:02:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Palm Springs Is Hot. The Old Guard Is Hot Under the Collar.</title>
+      <link>http://www.nytimes.com/2017/03/04/style/palm-springs-hotels-airbnb-vacation-rental-homes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/style/palm-springs-hotels-airbnb-vacation-rental-homes.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/style/palm-springs-hotels-airbnb-vacation-rental-homes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/05/fashion/05PALMSPRINGS5/05PALMSPRINGS5-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The midcentury home of J.R. Roberts, a city councilman in Palm Springs, Calif.</media:description>
+      <media:credit>Emily Berl for The New York Times</media:credit>
+      <description>Long a sleepy city that drew Hollywood stars, this desert oasis is grappling with a surge in short-term home rentals.</description>
+      <dc:creator>KATHERINE ROSMAN</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 17:20:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Airbnb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palm Springs (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+    </item>
+    <item>
+      <title>This Life: Whom Do You Tell When You&#x2019;re Sick? Maybe Everyone You Know</title>
+      <link>http://www.nytimes.com/2017/03/04/style/health-sick-illness-medical-conditions-social-media.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/style/health-sick-illness-medical-conditions-social-media.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/style/health-sick-illness-medical-conditions-social-media.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/05/fashion/05THISLIFE/05THISLIFE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Margaret Riegel</media:credit>
+      <description>People used to keep medical conditions private, but &#x201C;a tweet-length piece of information can be the difference between life and death,&#x201D; says a doctor.</description>
+      <dc:creator>BRUCE FEILER</dc:creator>
+      <pubDate>Mon, 06 Mar 2017 22:07:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+    </item>
+    <item>
+      <title>Blockchain: A Better Way to Track Pork Chops, Bonds, Bad Peanut Butter?</title>
+      <link>http://www.nytimes.com/2017/03/04/business/dealbook/blockchain-ibm-bitcoin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/business/dealbook/blockchain-ibm-bitcoin.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/business/dealbook/blockchain-ibm-bitcoin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/05/business/05IBM1/05IBM1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cargo containers are loaded on a Maersk ship at the Port of Mombasa in Kenya. IBM has heated competition in the race to monitor transactions.</media:description>
+      <media:credit>Andrew Renneisen for The New York Times</media:credit>
+      <description>Walmart is testing real-world uses for the arcane technology behind the cryptocurrency Bitcoin, but significant challenges remain.</description>
+      <dc:creator>NATHANIEL POPPER and STEVE LOHR</dc:creator>
+      <pubDate>Sat, 04 Mar 2017 10:00:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Walmart Stores Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Maersk Line</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hyperledger Foundation</category>
+    </item>
+    <item>
+      <title>Howard Schmidt, Cybersecurity Adviser to Two Presidents, Dies at 67</title>
+      <link>http://www.nytimes.com/2017/03/04/us/howard-schmidt-dead-white-house-cybersecurity-aide.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/04/us/howard-schmidt-dead-white-house-cybersecurity-aide.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/04/us/howard-schmidt-dead-white-house-cybersecurity-aide.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/business/04schmidt_web1/04schmidt_web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Howard A. Schmidt speaking at the Sixth International Information Security Conference in Seoul, South Korea, in 2012.</media:description>
+      <media:credit>Yonhap/European Pressphoto Agency</media:credit>
+      <description>A computer crime expert, Mr. Schmidt was recruited by Presidents George W. Bush and Barack Obama and drafted safeguards that were approved by Congress.</description>
+      <dc:creator>SAM ROBERTS</dc:creator>
+      <pubDate>Sat, 04 Mar 2017 05:43:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmidt, Howard A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Strategy for Trusted Identities in Cyberspace</category>
+    </item>
+    <item>
+      <title>Uber Said to Consider Changes to Employee Stock Compensation</title>
+      <link>http://www.nytimes.com/2017/03/03/technology/uber-said-to-consider-changes-to-employee-stock-compensation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/technology/uber-said-to-consider-changes-to-employee-stock-compensation.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/technology/uber-said-to-consider-changes-to-employee-stock-compensation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/business/04-UBERSTOCK/04-UBERSTOCK-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Uber headquarters in San Francisco. The company is said to be discussing how to make it easier for employees who leave to take their stock with them.</media:description>
+      <media:credit>Eric Risberg/Associated Press</media:credit>
+      <description>Uber is considering ways to make its stock compensation policies more friendly to its workers, said people with knowledge of a meeting where the issue was discussed.</description>
+      <dc:creator>KATIE BENNER and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 21:02:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stock Options and Purchase Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+    </item>
+    <item>
+      <title>The Workologist: Getting Real About the Fantasy of a Fresh Start</title>
+      <link>http://www.nytimes.com/2017/03/03/business/workologist-workplace-advice.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/business/workologist-workplace-advice.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/business/workologist-workplace-advice.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/05/business/05WORKOLOGIST/05WORKOLOGIST-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Gracia Lam</media:credit>
+      <description>An exhausted couple consider chucking their high-paying jobs in New York and moving to a small town upstate.</description>
+      <dc:creator>ROB WALKER</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 20:31:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+    </item>
+    <item>
+      <title>How Uber Deceives the Authorities Worldwide</title>
+      <link>http://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/business/04-UBER-01/04-UBER-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Uber&#x2019;s Greyball tool was developed to weed out riders thought to be using its service improperly.</media:description>
+      <media:credit>Mark Ralston/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A program uses data Uber collected to evade law enforcement in cities that resist the ride-hailing service, some current and former Uber employees said.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 19:33:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+    </item>
+    <item>
+      <title>Tech Tip: How to Use a Hearing Aid with Your Smartphone</title>
+      <link>http://www.nytimes.com/2017/03/03/technology/personaltech/how-to-use-a-hearing-aid-with-your-smartphone.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/technology/personaltech/how-to-use-a-hearing-aid-with-your-smartphone.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/technology/personaltech/how-to-use-a-hearing-aid-with-your-smartphone.html?partner=rss&amp;emc=rss"/>
+      <description>The iPhone and other mobile phones include tools and settings to help people with hearing loss.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 17:32:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hearing Aids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Android (Operating System)</category>
+    </item>
+    <item>
+      <title>Bits: Daily Report: Snap&#x2019;s I.P.O. Went Well. Now What?</title>
+      <link>http://www.nytimes.com/2017/03/03/technology/daily-report-snaps-ipo-went-well-now-what.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/technology/daily-report-snaps-ipo-went-well-now-what.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/technology/daily-report-snaps-ipo-went-well-now-what.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/04/technology/04bitsdaily-web/04bitsdaily-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Snap, the maker of Snapchat, had a strong trading debut on Thursday.</media:description>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <description>As the maker of the ephemeral messaging app Snapchat started trading on the New York Stock Exchange, shares soared to 44 percent over their offering price.</description>
+      <dc:creator>PUI-WING TAM</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 17:14:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Bobby (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spiegel, Evan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Snap Inc</category>
+    </item>
+    <item>
+      <title>Critic's Notebook: How to Escape Your Political Bubble for a Clearer View</title>
+      <link>http://www.nytimes.com/2017/03/03/arts/the-battle-over-your-political-bubble.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/03/arts/the-battle-over-your-political-bubble.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/03/arts/the-battle-over-your-political-bubble.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/03/arts/04BUBBLE/04BUBBLE-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Venturing outside the bias bubble.</media:description>
+      <media:credit>Stephen Savage</media:credit>
+      <description>Want to see how the other half live-tweets? The technology that insulated you will now free you.</description>
+      <dc:creator>AMANDA HESS</dc:creator>
+      <pubDate>Fri, 03 Mar 2017 15:18:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BuzzFeed Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">MIT Media Lab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Public Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Slate (Magazine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">  
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+  <title>Javascript</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+    }
+    #content {
+      background-color: #c7c7c7;
+      padding: 2em;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    #mousepos {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        border: 1px solid black;
+        padding: 0.25em;
+    }
+    #toggle {
+        display: inline-block;
+        border-radius: 0.5em;
+        padding: 0.5em;
+        background-color: teal;
+        color: #ffffff;
+        cursor: pointer;
+    }
+    #toggle.clicked {
+        background-color: violet;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div id="content">
+
+    <h1 id="heading">A JavaScript playground</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetuer cursus felis tortor mattis id. Enim urna mauris Sed pellentesque justo Suspendisse id Donec lacus elit. Molestie Nam tristique cursus ligula in et consequat Quisque auctor Aenean. Porttitor tincidunt consequat Sed est id sem Pellentesque aliquet nibh sed. Convallis dui risus netus ligula tellus ut justo libero eros convallis. Rutrum sem leo ac Mauris dictum consequat velit In Nulla est. Orci at et quis tortor consequat augue sit faucibus dignissim.</p>
+    <p>Laoreet semper Morbi tincidunt egestas In Sed facilisi libero Integer et. Faucibus wisi Vestibulum Praesent Vivamus id semper ante justo urna pretium. Ligula natoque hendrerit congue mauris amet et Vestibulum risus elit scelerisque. Diam Phasellus sed scelerisque in malesuada arcu neque Aliquam amet arcu. Tempor Aliquam et Nunc dui mauris ac laoreet condimentum tincidunt ut. Sit tellus sagittis dis cursus sollicitudin ornare volutpat augue vestibulum ut. Ligula Maecenas nibh interdum congue Sed quis et orci tristique dolor. Quis sem Nam nunc consequat nibh nisl non Curabitur et consectetuer. Consequat tristique hac.</p>
+
+    <h2 id="subheading">End of playground</h2>
+
+    <button id="button">CLICK ME!</button>
+    
+    <div id="toggle">TOGGLE</div>
+
+  </div>
+
+  <div id="mousepos">
+      <div>X: <span id="mousepos_x"></span></div>
+      <div>Y: <span id="mousepos_y"></span></div>
+  </div>
+
+  <div class="foo">first</div>
+  <div class="foo">second</div>
+  <div class="foo">third</div>
+
+
+  <script>
+
+  var toggle = $('#toggle');
+
+  toggle.on('click', function() {
+    $(this).toggleClass('clicked');
+  });
+/*
+  //$('.foo').html('New HTML');
+  $('.foo'); // the jQuery selection object
+  $('.foo')[0]; // the first HTML element in the selection object (= plain JS element)
+  $('.foo')[0].innerHTML = 'New HTML';
+*/
+
+var plain_button = document.getElementById('button');
+var jquery_button = $('#button');
+console.log(plain_button);
+console.log(jquery_button);
+
+  var body = $(document.body);
+  body.on('mousemove', function(event) {
+    // do something with event
+    
+    $('#mousepos_x').html(event.pageX); // jQuery way
+    document.getElementById('mousepos_x').innerHTML = event.pageX; // plain JS way
+
+    $('#mousepos_y').html(event.pageY); // jQuery way
+    document.getElementById('mousepos_y').innerHTML = event.pageY; // plain JS way
+  });
+  
+  // write a function that would change the headline of the page
+  function change_heading(new_heading) {
+    var heading = document.getElementById('heading');
+    heading.innerHTML = new_heading;
+
+    /*
+    document.getElementById('heading').innerHTML; // chaining
+    */
+  }
+
+  // call the function
+  change_heading('Brace yourself. Functions are coming.');
+
+
+  // Write a function that accepts 2 arguments: the id attribute of an element and a text string
+  function change_any_element(id_of_element, text_string) {
+    // from the start of the function I have variables id_of_element and text_string
+
+    var element = document.getElementById(id_of_element); // I use the first variable to find the element
+    element.innerHTML = text_string; // I use the second variable to set it's contents
+
+  }
+  change_any_element('heading', 'This is a heading');
+  change_any_element('subheading', 'This is a subheading');
+
+  /**
+   * logs the type of a given value
+   * 
+   * adds a simple sentence to make the output nice
+   * the value can be of any type
+   * @param value - the value to be tested
+   */
+  function log_value_type(value) {
+    var type = typeof value;
+    console.log(value);
+    console.log('The type of the value above is '+type);
+  }
+
+  log_value_type(3.14);
+  log_value_type("My name is Neo!");
+  log_value_type([1,2,3,4]);
+  log_value_type(document);
+
+  </script>
+
+  
+</body>
+
+</html>

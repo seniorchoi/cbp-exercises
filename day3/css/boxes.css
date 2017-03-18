@@ -1,0 +1,14 @@
+/* boxes.css */
+
+
+#first {
+    border: 1px solid black;
+}
+#second {
+    border: 10px dotted blue;
+}
+#third {
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
+    border-right: 1px solid green;
+}

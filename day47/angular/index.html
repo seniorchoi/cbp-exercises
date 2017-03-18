@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Angular application</title>
+
+    <script src="https://code.angularjs.org/latest/angular.js"></script>
+    <script src="https://code.angularjs.org/latest/angular-route.js"></script>
+
+    <script src="myApp.module.js"></script>
+    <script src="productDetail.controller.js"></script>
+    <script src="studentList.controller.js"></script>
+</head>
+<body>
+
+    <script>
+// create a module 'myModule'
+var my_module = angular.module('myModule', []);
+
+// retrieve the created module 'myModule'
+var that_module_i_created = angular.module('myModule');
+
+// create a module with dependency on 'ngRoute' module
+var another_module = angular.module('moduleWithRouting', ['ngRoute']);
+    </script>
+
+    <h1>This is an Angular application</h1>
+
+    <div ng-app="myApp" ng-init="name = 'Jan'; color = 'red'">
+
+        <div>The result of the calculation is {{ 3 + 3 }}</div>
+        <div>That is the same as <span ng-bind="3 + 3"></span></div>
+
+        <div style="color: {{ color }}">My name is {{ name }}</div>
+
+        <div ng-controller="studentList">
+            There are {{ total_students }} students in the course<br />
+
+            There are {{ countMissingStudents() }} students missing today.
+
+            <!-- The monster says {{ $ctrl.property_of_the_controller }} ! -->
+            <br />
+            {{ students[0].name }}
+
+            <ul>
+                <li ng-repeat="student in students">
+                    <h3>{{ student.name }}</h3>
+                    <div>Present: {{ student.present }}</div>
+                </li>
+            </ul>
+
+            <input type="text" value="Jan" ng-model="my_name" style="background-color: {{ my_name }}" />
+            <br />
+            My name is {{ my_name }}.
+            Oh yes, really {{ my_name }}
+            <br />
+            <input type="text" placeholder="write color here" ng-model="bgcolor" style="background-color: {{ bgcolor }}" />
+
+        </div>
+
+        <div ng-controller="productDetail">
+            <h2>{{ product_name }}</h2>
+            <div class="description">
+                {{ description }}
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>

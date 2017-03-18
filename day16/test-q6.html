@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+
+    <style>
+div {
+  border: 1px solid #000000;
+  padding: 1em;
+}
+.outer {
+    position: relative;
+}
+.inner {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+    </style>
+
+</head>
+<body>
+    <div>
+        This year I will be <span id="age"></span>.
+    </div>
+
+    <script>
+// Declare a new variable (give it a name of your choice) and as a value put in the current year.
+var current_year = 2017;
+// Declare another new variable (give it a name of your choice) and as a value put in the year you were born.
+var year_of_my_birth = 1982;
+//Declare a third new variable (give it a name of your choice) and as a value put in the result of subtracting the year of your birth from the current year.
+var age = current_year - year_of_my_birth;
+//Find an element with the id="age" in the document. Take the HTML below as reference.
+var element_that_i_want_to_change = document.getElementById('age');
+//Set the result of your calculation to be the HTML content of the found element. In other words replace any HTML inside the found element with the result of the calculation.    
+element_that_i_want_to_change.innerHTML = age;
+    </script>
+
+</div>
+</body>
+</html>

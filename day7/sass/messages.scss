@@ -1,0 +1,43 @@
+.message {
+    padding: 0.5em 1em;
+    background-color: #cccccc;
+    border: 1px solid #666666;
+    margin-bottom: 0.25em;
+
+    background: #cccccc url('http://classes.codingbootcamp.cz/assets/classes/8/info.png') 1em center/1em auto no-repeat scroll;
+    background-image: url('http://classes.codingbootcamp.cz/assets/classes/8/info.png');
+    background-position: 1em center;
+    background-size: 1em auto;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+
+    padding-left: 3em;
+}
+$message_border_darker_by: #333333;
+.info {
+    @extend .message;
+    $bg_color: #BAE7EC;
+    background-color: $bg_color;
+    border-color: $bg_color - $message_border_darker_by;
+}
+.success {
+    @extend .message;
+    $bg_color: #BBECBA;
+    background-color: $bg_color;
+    border-color: $bg_color - $message_border_darker_by;
+    background-image: url('http://classes.codingbootcamp.cz/assets/classes/8/success.png');
+}
+.warning {
+    @extend .message;
+    $bg_color: #ffce9e;
+    background-color: $bg_color;
+    border-color: $bg_color - $message_border_darker_by;
+    background-image: url('http://classes.codingbootcamp.cz/assets/classes/8/warning.png');
+}
+.error {
+    @extend .message;
+    $bg_color: #ff9e9e;
+    background-color: $bg_color;
+    border-color: $bg_color - $message_border_darker_by;
+    background-image: url('http://classes.codingbootcamp.cz/assets/classes/8/error.png');
+}

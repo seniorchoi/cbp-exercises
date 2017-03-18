@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Events</title>
+</head>
+<body>
+    
+    <button id="black_button" onclick="document.body.style.backgroundColor = 'black';">Black</button>
+    <button id="silver_button" onclick="document.body.style.backgroundColor = 'silver';">Silver</button>
+    <button id="red_button">Red</button>
+    <button id="pink_button">Pink</button>
+    <button id="lime_button">Lime</button>
+    <button id="white_button">White</button>
+
+    <p>Commodo non tempor in minim anim nisi qui. Nisi dolore ex incididunt id proident velit laborum laboris id sint labore minim. Aute in esse officia velit dolor in et laborum tempor mollit adipisicing.</p>
+
+    <script>
+
+var red = document.getElementById('red_button');
+red.onclick = function() {
+    document.body.style.backgroundColor = "red";
+};
+var pink = document.getElementById('pink_button');
+pink.onclick = function() {
+    document.body.style.backgroundColor = "pink";
+};
+var lime = document.getElementById('lime_button');
+lime.addEventListener('click', function() {
+    document.body.style.backgroundColor = "lime";
+});
+var white = document.getElementById('white_button');
+white.addEventListener('click', function() {
+    document.body.style.backgroundColor = "white";
+});
+
+var black = document.getElementById('black_button'); // find black button
+black.addEventListener('click', function() { // attach an event to ...
+    document.body.style.color = "white";    // ...change the color within the whole body to white
+});
+white.addEventListener('click', function() {
+    document.body.style.color = "black";
+});
+
+    </script>
+
+</body>
+</html>

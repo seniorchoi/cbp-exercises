@@ -1,0 +1,73 @@
+body {
+    background-color: #E6E6FA ;
+}
+h1 {
+    color: green;
+}
+span {
+    color: red;
+    font-weight: bold;
+}
+a {
+    font-weight: bold;
+}
+p {
+    background-color: rgba(0, 0, 0, 0.5);
+    line-height: 1.2em;
+    /*border: 1px solid red; */
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+
+li.seen {
+    color: silver;
+    font-size: 11px;
+}
+li.unseen {
+    color: #B22222;
+}
+.seen.good {
+    color: forestgreen;
+}
+
+#biography a {
+    text-decoration: none;
+}
+#biography a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: Arial;
+    font-family: 'Raleway', sans-serif;
+
+}
+h1, h2, h3 {
+    font-family: 'Arima Madurai', cursive;
+}
+h1 {
+    font-size: 4.5em;
+    font-weight: normal;
+}
+h2 {
+    font-variant: small-caps;
+}
+
+#biography {
+    
+}
+div.red {
+    border: 1px solid red;
+    position: relative;
+}
+div.red .abs_element {
+    color: white;
+    background: black;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    padding: 1em;
+    box-sizing: border-box;
+}
